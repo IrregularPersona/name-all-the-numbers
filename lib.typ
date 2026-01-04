@@ -1,5 +1,5 @@
-#import "languages/en.typ" 
-#import "languages/id.typ" 
+#import "languages/en.typ"
+#import "languages/id.typ"
 #import "languages/fr.typ"
 #import "languages/my.typ"
 
@@ -67,6 +67,7 @@
       parts.push((
         text: group-text,
         scale: scale-idx,
+        digits: group-digits,
       ))
     }
   }
