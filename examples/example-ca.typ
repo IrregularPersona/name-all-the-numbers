@@ -1,0 +1,20 @@
+#import "lib.typ": name-it
+#set page(width: auto, height: auto, margin: 1cm)
+
+=== Catalan
+- #name-it(-5, lang: "ca")
+- #name-it(0, lang: "ca")
+- #name-it(1, lang: "ca")
+- #name-it(10, lang: "ca")
+- #name-it(11, lang: "ca")
+- #name-it(21, lang: "ca")
+- #name-it(42, lang: "ca")
+- #name-it(100, lang: "ca")
+- #name-it(110, lang: "ca")
+- #name-it(1104, lang: "ca")
+- #name-it(11040, lang: "ca")
+- #name-it(11000, lang: "ca")
+- #name-it(110000, lang: "ca")
+- #name-it(1100004, lang: "ca")
+- #name-it(10000000000006, lang: "ca")
+- #name-it("200000000000000000000000007", lang: "ca")
