@@ -76,6 +76,7 @@ Convert the given number into its word representation in your specified language
 - **French** (`"fr"`)
 - **Indonesian** (`"id"`)
 - **Malaysian** (`"my"`)
+- **Catalan** (`"ca"`)
 
 ## Contributing New Languages
 Want to add support for a new language? Great! Here's how:
